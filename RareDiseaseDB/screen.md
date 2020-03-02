@@ -6,9 +6,9 @@
   (geneMatcher 및 Decipher의 페이지 인터페이스는 아래에 캡쳐함)     <br>
  <br>
   <br>
-![](/img/51.PNG) <br>
-![](/img/52.PNG) <br>
-![](/img/53.PNG) <br>
+![gene ID / Diagnosis Code / Phenotypic Terms / Variant Parameters / Provides Match Score](./img/51.PNG) <br>
+![phenotype / genotype / candidate](./img/52.PNG) <br>
+![querting service](./img/53.PNG) <br>
 
  <br>
   <br>

@@ -6,9 +6,9 @@
   (geneMatcher 및 Decipher의 페이지 인터페이스는 아래에 캡쳐함)     <br>
  <br>
   <br>
-![gene ID / Diagnosis Code / Phenotypic Terms / Variant Parameters / Provides Match Score](./img/51.PNG) <br>
-![phenotype / genotype / candidate](./img/52.PNG) <br>
-![querting service](./img/53.PNG) <br>
+![51](https://user-images.githubusercontent.com/25417906/75645994-77e61b80-5c8b-11ea-8d42-646cd6bb94f5.PNG)
+![52](https://user-images.githubusercontent.com/25417906/75646004-7ae10c00-5c8b-11ea-8201-f04308e913b7.PNG)
+![53](https://user-images.githubusercontent.com/25417906/75646010-7d436600-5c8b-11ea-96dc-310dc2c5886b.PNG)
 
  <br>
   <br>
@@ -16,17 +16,19 @@
 
 ### <a herf = https://genematcher.org/> GeneMatcher </a> ###
   <br>
-![](/img/01.PNG) <br>
-![](/img/02.PNG) <br>
-![](/img/03.PNG) <br>
-![](/img/04.PNG) <br>
+![01](https://user-images.githubusercontent.com/25417906/75646167-0f4b6e80-5c8c-11ea-823c-680077334945.PNG)
+![02](https://user-images.githubusercontent.com/25417906/75646169-12465f00-5c8c-11ea-9c81-9f09b997a9e6.PNG)
+![03](https://user-images.githubusercontent.com/25417906/75646173-14102280-5c8c-11ea-9553-b0858658aa5e.PNG)
+![04](https://user-images.githubusercontent.com/25417906/75646175-15d9e600-5c8c-11ea-9e3c-53605b59822d.PNG)
 
  <br>
  <br>
 
 ### <a herf = https://decipher.sanger.ac.uk/> Decipher </a> ###
  <br>
-![](/img/01.PNG) <br>
-![](/img/12.PNG) <br>
+
+
+![11](https://user-images.githubusercontent.com/25417906/75646184-1a9e9a00-5c8c-11ea-86c1-3d8e9b272807.PNG)
+![12](https://user-images.githubusercontent.com/25417906/75646187-1ecab780-5c8c-11ea-8156-36781aeedf5c.PNG)
 
 

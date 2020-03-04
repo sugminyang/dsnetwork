@@ -28,4 +28,4 @@
 ![search1](https://raw.githubusercontent.com/sugminyang/dsnetwork/master/RareDiseaseDB/img/decipher_search/01.JPG)
 ![search2](https://raw.githubusercontent.com/sugminyang/dsnetwork/master/RareDiseaseDB/img/decipher_search/02.JPG)
 ![search3](https://raw.githubusercontent.com/sugminyang/dsnetwork/master/RareDiseaseDB/img/decipher_search/03.JPG)
-![search4](https://raw.githubusercontent.com/sugminyang/dsnetwork/master/RareDiseaseDB/img/decipher_search/04.JPG)
+![search4](https://raw.githubusercontent.com/sugminyang/dsnetwork/master/RareDiseaseDB/img/decipher_searchdecipher_search/04.JPG)

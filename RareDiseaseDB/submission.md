@@ -3,7 +3,8 @@
 - (참고하면 좋을 듯)
 - Gene Maker에서는 본인이 데이터를 submission하지 않으면 비슷한 샘플을 찾을 수 없음.
 
-<br>
+</br>
+
 ![submission1](https://raw.githubusercontent.com/sugminyang/dsnetwork/master/RareDiseaseDB/img/submission/01.JPG)
 
 ![submission2](https://raw.githubusercontent.com/sugminyang/dsnetwork/master/RareDiseaseDB/img/submission/02.JPG)
